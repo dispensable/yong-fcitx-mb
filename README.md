@@ -8,3 +8,8 @@
 2. cd 到项目, make env && make mb
 3. `cp yong/yong.conf yong/yong.mb ~/.config/fcitx/table/`
 4. 重启输入法生效
+
+# ref
+
+1. [码表输入法](http://fcitx.github.io/handbook/sect1-code-table.html)
+2. [小鹤码表](https://github.com/rydesun/fcitx-table-flypy)
